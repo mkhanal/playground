@@ -1,3 +1,3 @@
 # playground
 
-This is to test random stuff but with conflict
+This is to test random stuff
