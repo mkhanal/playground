@@ -1,1 +1,2 @@
 This is the recent file
+This is a different config value
